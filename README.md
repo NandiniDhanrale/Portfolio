@@ -3,9 +3,7 @@
 A fully responsive developer personal portfolio, get your fork and play with it ;)
 
 
-Welcome to my personal portfolio! This is a world-class, premium developer portfolio website designed for **Nandini Dhanrale** (Software Developer | Full Stack Engineer | AI Systems Builder). 
-
-The platform features an Apple + Linear + Vercel-inspired SaaS aesthetic, optimized for Next.js 15, React 19, TypeScript, Tailwind CSS v4, Framer Motion, and Resend. It tells a technical story of engineering growth: **Student → Builder → Engineer → Future Software Architect**.
+Welcome to my personal portfolio! It tells a technical story of engineering growth: **Student → Builder → Engineer → Future Software Architect**.
 
 ---
 
