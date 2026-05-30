@@ -1,4 +1,7 @@
-# A fully responsive developer personal portfolio. Get your fork and play with it! ;)
+# Nandini's Portfolio
+
+A fully responsive developer personal portfolio, get your fork and play with it ;)
+
 
 Welcome to my personal portfolio! This is a world-class, premium developer portfolio website designed for **Nandini Dhanrale** (Software Developer | Full Stack Engineer | AI Systems Builder). 
 
