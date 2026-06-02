@@ -21,7 +21,7 @@ const LinkedinIcon = (props: React.SVGProps<SVGSVGElement>) => (
 const SOCIALS = [
   { icon: GithubIcon, label: "GitHub", href: "https://github.com/NandiniDhanrale" },
   { icon: LinkedinIcon, label: "LinkedIn", href: "https://linkedin.com/in/nandini-dhanrale-266268305" },
-  { icon: Mail, label: "Email", href: "mailto:nandinidhanrale@gmail.com" },
+  { icon: Mail, label: "Email", href: "mailto:dhanralenandini@gmail.com" },
 ];
 
 export default function Contact() {
