@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -10,11 +11,13 @@ export default function Hero() {
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.5 }}
-          className="w-40 h-40 rounded-full overflow-hidden border-4 border-white/10 flex-shrink-0 shadow-lg shadow-accent-blue/10"
+          className="w-48 h-48 rounded-full overflow-hidden border-4 border-white/10 bg-white/5 flex-shrink-0 shadow-lg shadow-accent-blue/10"
         >
-          <img
+          <Image
             src="/profile.png"
             alt="Nandini Dhanrale"
+            width={192}
+            height={192}
             className="w-full h-full object-cover"
           />
         </motion.div>
