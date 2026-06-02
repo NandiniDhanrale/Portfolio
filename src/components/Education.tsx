@@ -8,13 +8,13 @@ const EDUCATION = [
     degree: "B.E. Electronics & Telecommunication",
     school: "MKSSS Cummins College of Engineering for Women, Pune",
     duration: "2023 - 2026",
-    grade: "CGPA: 9.15 / 10.0",
+    grade: "CGPA: 7.2 / 10.0",
   },
   {
     degree: "Diploma in Computer Technology",
     school: "K.K. Wagh Polytechnic, Nashik",
     duration: "2021 - 2023",
-    grade: "94.85% (Distinction)",
+    grade: "86%",
   },
 ];
 
