@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 import { Award } from "lucide-react";
 
 const ACHIEVEMENTS = [
-  "First Place Winner — Code Club CODIGO 3.1 Hackathon (150+ participants)",
-  "First Place Winner — Loop Buffer 5.0 Hackathon",
+  "Top 2% in State Department Technical Board examinations",
+  "Ranked Top 19% — Kaggle Binary Classification with Bank Dataset",
 ];
 
 export default function Achievements() {
