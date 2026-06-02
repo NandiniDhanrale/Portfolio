@@ -5,7 +5,7 @@ import { GraduationCap } from "lucide-react";
 
 const EDUCATION = [
   {
-    degree: "B.E. Electronics & Telecommunication",
+    degree: "B.Tech. Electronics & Telecommunication",
     school: "MKSSS Cummins College of Engineering for Women, Pune",
     duration: "2023 - 2026",
     grade: "CGPA: 7.2 / 10.0",
