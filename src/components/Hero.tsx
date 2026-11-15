@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import heroImg from "../app/IMG_1045.jpg";
 import { motion } from "framer-motion";
 
 export default function Hero() {
@@ -14,7 +15,7 @@ export default function Hero() {
           className="w-48 h-48 rounded-full overflow-hidden border-4 border-white/10 bg-white/5 flex-shrink-0 shadow-lg shadow-accent-blue/10"
         >
           <Image
-            src="/IMG_1045.jpg"
+            src={heroImg}
             alt="Nandini Dhanrale"
             width={192}
             height={192}
