@@ -14,7 +14,7 @@ export default function Hero() {
           className="w-48 h-48 rounded-full overflow-hidden border-4 border-white/10 bg-white/5 flex-shrink-0 shadow-lg shadow-accent-blue/10"
         >
           <Image
-            src="/profile.png"
+            src="/IMG_1045.jpg"
             alt="Nandini Dhanrale"
             width={192}
             height={192}
